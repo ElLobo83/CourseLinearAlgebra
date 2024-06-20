@@ -1,0 +1,14 @@
+# Kernel para Jupyter
+ipykernel==6.29.4
+
+# Librerías para cálculos numéricos
+numpy==1.26.4
+
+# Librerías para operaciones científicas
+scipy==1.13.1
+
+# Librerías para visualización de datos
+matplotlib==3.8.4
+
+# Librerías para cálculos simbólicos
+sympy==1.12
