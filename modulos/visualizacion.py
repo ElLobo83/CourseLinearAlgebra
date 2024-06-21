@@ -1,6 +1,6 @@
 import sympy as sp
 import numpy as np
-from IPython.display import display, Math, Latex
+from IPython.display import display
 
 
 def mostrar_matriz(array):
